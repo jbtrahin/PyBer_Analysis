@@ -1,7 +1,7 @@
 # PyBer_Analysis
 Performing analysis of rideshare data using Python, Pandas, Jupyter Notebook and Matplotlib.
 
-Deliverable wil include:
+Deliverables wil include:
 
 - Import your data into a Pandas DataFrame.
 - Merge your DataFrames.
